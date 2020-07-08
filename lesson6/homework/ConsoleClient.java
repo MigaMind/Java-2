@@ -1,4 +1,4 @@
-package dev.astamur.geekbrains.lessons.lesson6.homework;
+package homework;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

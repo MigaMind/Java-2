@@ -1,5 +1,3 @@
-package dev.astamur.geekbrains.lessons.lesson6;
-
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;

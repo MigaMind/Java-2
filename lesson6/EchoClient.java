@@ -1,5 +1,3 @@
-package dev.astamur.geekbrains.lessons.lesson6;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.WindowAdapter;
