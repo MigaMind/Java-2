@@ -1,4 +1,4 @@
-package dev.astamur.geekbrains.lessons.lesson7.client;
+package client;
 
 import javafx.application.Platform;
 import javafx.fxml.FXML;

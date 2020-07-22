@@ -1,4 +1,4 @@
-package dev.astamur.geekbrains.lessons.lesson7.server;
+package server;
 
 import java.util.ArrayList;
 import java.util.List;

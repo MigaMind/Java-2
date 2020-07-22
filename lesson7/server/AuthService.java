@@ -1,4 +1,4 @@
-package dev.astamur.geekbrains.lessons.lesson7.server;
+package server;
 
 public interface AuthService {
     void start();

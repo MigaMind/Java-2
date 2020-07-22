@@ -1,4 +1,4 @@
-package dev.astamur.geekbrains.lessons.lesson7.server;
+package server;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
